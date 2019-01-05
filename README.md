@@ -7,3 +7,4 @@
 5. kafka,activemq和rabbitmq等各种消息中间件的优势,劣势和区别
 6. mysql中内置锁机制
 7. redis和zookeeper做分布式锁时分别是什么算法
+8. jdk8的lambda是如何实现的
